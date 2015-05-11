@@ -1,6 +1,6 @@
 ---
 layout: default
-img: enron.tiff
+img: enron.jpg
 category: Portfolio
 title: Analyzing the Enron Email Dataset:<br>Is it possible to use machine learning to identify persons of interest in the Enron fraud case?
 description: |
