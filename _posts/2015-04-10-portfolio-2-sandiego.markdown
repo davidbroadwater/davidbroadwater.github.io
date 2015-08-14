@@ -1,6 +1,6 @@
 ---
 layout: default
-img: sandiego.tiff
+img: sandiego.png
 category: Portfolio
 title: Wrangling San Diego OpenStreetMap Data
 description: |

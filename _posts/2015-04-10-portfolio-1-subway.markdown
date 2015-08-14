@@ -1,6 +1,6 @@
 ---
 layout: default
-img: subway.tiff
+img: subway.png
 category: Portfolio
 title: NYC Subway System:<br>Does Rain Affect Subway Ridership?
 description: |
